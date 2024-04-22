@@ -37,3 +37,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 - test 04
 - test 05
 - test 06
+- test 07
